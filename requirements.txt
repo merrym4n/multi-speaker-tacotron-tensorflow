@@ -9,7 +9,7 @@ Cython==0.26.1
 decorator==4.0.11
 entrypoints==0.2.3
 Flask==0.12.2
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 gTTS==1.2.2
 gTTS-token==1.1.1
 html5lib==0.9999999
