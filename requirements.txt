@@ -24,7 +24,7 @@ itsdangerous==0.24
 jamo==0.4.0
 jedi==0.10.2
 Jinja2==2.9.6
-joblib==0.11
+joblib==1.2.0
 jsonschema==2.6.0
 jupyter-client==5.1.0
 jupyter-core==4.3.0
